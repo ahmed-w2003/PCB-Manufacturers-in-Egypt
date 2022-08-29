@@ -54,16 +54,7 @@
   - X-Ray testers
   - Flying probe electrical tester
   - Surface Mount Technology Assembly available
-
-### Open hours
-  - Saturday
-  - Sunday
-  - Monday
-  - Tuesday
-  - Wednesday
-  - Thursday
-  - Friday
-
+  
 ### Contact
    - [Website](http://www.katron.com.eg/index.php/en)
    - [Youtube](https://www.youtube.com/channel/UCiDp9CNUOZfyMgcMJSTLV-A)
